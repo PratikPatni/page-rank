@@ -141,12 +141,6 @@ Win: spjson.py
 
 Creating JSON output on spider.js...
 How many nodes? 30
-Open force.html in a browser to view the visualization
-
-You can view this data by opening the file force.html in your web browser.  
-This shows an automatic layout of the nodes and links.  You can click and 
-drag any node and you can also double click on a node to find the URL
-that is represented by the node.
 
 If you rerun the other utilities and then re-run spjson.py - you merely
 have to press refresh in the browser to get the new data from spider.js.
